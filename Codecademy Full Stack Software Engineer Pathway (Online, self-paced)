@@ -94,6 +94,6 @@
 - HTTP Headers, JWTs, Passwords, Salts, Passport.js, OAuth 2.0
 - Feature Testing (Outside-In TDD, Headless Browser Testing, Phantom.js)
 - Server Testing (jsdom, SuperTest)
-- Databases (SQL, PostgreSQL, NoSQL, Manipulation, Postbird, queries)
+- Databases (SQL, PostgreSQL, NoSQL, Manipulation, Postbird, queries, Aggregate Functions)
 
-*Projects: Password Authentication, Quote Keeper, Quote Keeper (Server Layer), Create a Table, Movie Database, New York Restaurants, *
+*Projects: Password Authentication, Quote Keeper, Quote Keeper (Server Layer), Create a Table, Movie Database, New York Restaurants, Trends in Startups, *
