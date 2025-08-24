@@ -8,3 +8,4 @@
 ---
 ## Books:
 ### • A Common-Sense Guide to Data Structures and Algorythms By Jay Wengrow
+### • Up and Going - You Don't Know JS By Kyle Simpson
