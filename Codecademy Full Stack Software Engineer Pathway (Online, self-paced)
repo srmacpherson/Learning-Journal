@@ -105,6 +105,6 @@
 ---
 ##WEEK 12
 >*Design relational databases, exploring schemas, keys, and relationships to ensure efficient data organization. Advanced PostgreSQL skills with constraints, roles, and normalization. Learn to set up RESTful APIs and document them using Swagger and OpenAPI*
-- Designing Relation Databases (Database Schema, Keys, Relationships, Triggers, )
+- Designing Relation Databases (Database Schema, Keys, Relationships, Triggers, Entity Relationship Diagrams, Three-tier Architecture, )
 
 *Projects: Build a Menu for Bytes of China, Database Triggers, *
