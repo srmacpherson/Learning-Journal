@@ -5,6 +5,7 @@
 ### • Northcoders - Full Stack Software Engineer Bootcamp (Online, full-time: 13 weeks)
 ### • Codecademy - Full Stack Software Engineer Pathway (Online, self-paced)
 ### • Harvard University - Introduction to Computer Science CS50X (Online, self-paced)
+### • Learn C# - Codecademy
 ---
 ## Books:
 ### • A Common-Sense Guide to Data Structures and Algorythms By Jay Wengrow
