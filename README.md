@@ -3,10 +3,12 @@
 
 ## Courses:
 ### • Northcoders - Full Stack Software Engineer Bootcamp (Online, full-time: 13 weeks)
-### • Codecademy - Full Stack Software Engineer Pathway (Online, self-paced)
+### • Full Stack Software Engineer Pathway - - Codecademy (Online, self-paced)
 ### • Harvard University - Introduction to Computer Science CS50X (Online, self-paced)
-### • Learn C# - Codecademy
+### • Learn C# - Codecademy (Online, self-paced)
+### • Build Web Apps with ASP.NET - Codecademy (Online, self-paced)
 ---
 ## Books:
 ### • A Common-Sense Guide to Data Structures and Algorythms By Jay Wengrow
 ### • Up and Going - You Don't Know JS By Kyle Simpson
+### • The C# Player's Guide (5th Edition) By RB Whitaker
