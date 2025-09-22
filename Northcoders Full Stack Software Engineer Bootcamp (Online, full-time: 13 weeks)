@@ -1,10 +1,12 @@
 Course Start Date: 15/09/25
 Course End Date: 12/12/25
 
-##Week 1
+## Week 1
 Day One: Functions, The Command Line, Execution Context
 Day Two: Functions, Scope, Building a CLI using oclif
 Day Three: Exports and Require, Debugging and Problem Solving
 Day Four: Object Destructuring, Pair Programming
 Day Five: Clean Code, Pair Programming
 
+## Week 2
+Day One: Problem-solving and Testing Principles (TDD)
