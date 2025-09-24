@@ -1,0 +1,350 @@
+Completion: %
+
+TABLE OF CONTENTS
+Acknowledgments xix
+Introduction 1
+The Great Game of Programming 1
+Book Features 2
+I Want Your Feedback 6
+An Overview 6
+PART 1: THE BASICS
+1. The C# Programming Language 9
+What is C#? 9
+What is .NET? 10
+2. Getting an IDE 11
+A Comparison of IDEs 11
+Installing Visual Studio 13
+3. Hello World: Your First Program 15
+Creating a New Project 15
+A Brief Tour of Visual Studio 17
+Compiling and Running Your Program 18
+Syntax and Structure 19
+Beyond Hello World 24
+Compiler Errors, Debuggers, and Configurations 27
+4. Comments 29
+How to Make Good Comments 30
+x TABLE OF CONTENTS
+5. Variables 32
+What is a Variable? 32
+Creating and Using Variables in C# 33
+Integers 34
+Reading from a Variable Does Not Change It 35
+Clever Variable Tricks 35
+Variable Names 36
+6. The C# Type System 38
+Representing Data in Binary 38
+Integer Types 39
+Text: Characters and Strings 42
+Floating-Point Types 43
+The bool Type 45
+Type Inference 46
+The Convert Class and the Parse Methods 47
+7. Math 50
+Operations and Operators 50
+Addition, Subtraction, Multiplication, and Division 51
+Compound Expressions and Order of Operations 52
+Special Number Values 54
+Integer Division vs. Floating-Point Division 54
+Division by Zero 55
+More Operators 55
+Updating Variables 56
+Working with Different Types and Casting 58
+Overflow and Roundoff Error 60
+The Math and MathF Classes 61
+8. Console 2.0 63
+The Console Class 63
+Sharpening Your String Skills 65
+9. Decision Making 69
+The if Statement 69
+The else Statement 73
+else if Statements 73
+Relational Operators: ==, !=, <, >, <=, >= 74
+Using bool in Decision Making 75
+Logical Operators 76
+Nesting if Statements 77
+The Conditional Operator 77
+10. Switches 79
+TABLE OF CONTENTS xi
+Switch Statements 80
+Switch Expressions 81
+Switches as a Basis for Pattern Matching 82
+11. Looping 84
+The while Loop 84
+The do/while Loop 86
+The for Loop 86
+break Out of Loops and continue to the Next Pass 87
+Nesting Loops 88
+12. Arrays 90
+Creating Arrays 91
+Getting and Setting Values in Arrays 91
+Other Ways to Create Arrays 93
+Some Examples with Arrays 94
+The foreach Loop 95
+Multi-Dimensional Arrays 95
+13. Methods 97
+Defining a Method 97
+Calling a Method 99
+Passing Data to a Method 101
+Returning a Value from a Method 103
+Method Overloading 104
+Simple Methods with Expressions 105
+XML Documentation Comments 106
+The Basics of Recursion 107
+14. Memory Management 109
+Memory and Memory Management 110
+The Stack 110
+Fixed-Size Stack Frames 115
+The Heap 115
+Cleaning Up Heap Memory 122
+PART 2: OBJECT-ORIENTED PROGRAMMING
+15. Object-Oriented Concepts 129
+Object-Oriented Concepts 129
+16. Enumerations 132
+Enumeration Basics 133
+Underlying Types 136
+17. Tuples 137
+xii TABLE OF CONTENTS
+The Basics of Tuples 138
+Tuple Element Names 139
+Tuples and Methods 139
+More Tuple Examples 140
+Deconstructing Tuples 141
+Tuples and Equality 142
+18. Classes 144
+Defining a New Class 145
+Instances of Classes 147
+Constructors 148
+Object-Oriented Design 153
+19. Information Hiding 155
+The public and private Accessibility Modifiers 156
+Abstraction 159
+Type Accessibility Levels and the internal Modifier 160
+20.Properties 163
+The Basics of Properties 163
+Auto-Implemented Properties 166
+Immutable Fields and Properties 167
+Object Initializer Syntax and Init Properties 168
+Anonymous Types 169
+21. Static 170
+Static Members 170
+Static Classes 173
+22. Null References 174
+Null or Not? 175
+Checking for Null 176
+23. Object-Oriented Design 178
+Requirements 179
+Designing the Software 180
+Creating Code 185
+How to Collaborate 187
+Baby Steps 189
+24. The Catacombs of the Class 191
+The Five Prototypes 191
+Object-Oriented Design 194
+Tic-Tac-Toe 196
+25. Inheritance 198
+Inheritance and the object Class 199
+Choosing Base Classes 201
+TABLE OF CONTENTS xiii
+Constructors 202
+Casting and Checking for Types 204
+The protected Access Modifier 205
+Sealed Classes 205
+26
+. Polymorphism 207
+Abstract Methods and Classes 209
+New Methods 210
+27
+. Interfaces 212
+Defining Interfaces 213
+Implementing Interfaces 214
+Interfaces and Base Classes 215
+Explicit Interface Implementations 215
+Default Interface Methods 216
+28
+. Structs 219
+Memory and Constructors 220
+Classes vs. Structs 221
+Built
+-In Type Aliases 225
+Boxing and Unboxing 226
+29
+. Records 228
+Records 228
+Advanced Scenarios 230
+Struct
+- and Class
+-Based Records 231
+When to Use a Record 232
+30
+.Generic
+s 233
+The Motivation for Generics 233
+Defining a Generic Type 236
+Generic Methods 238
+Generic Type Constraints 238
+The default Operator 240
+31
+. The Fountain of Objects 242
+The Main Challenge 243
+Expansions 245
+32
+. Some Useful Types 248
+The Random Class 249
+The DateTime Struct 250
+The TimeSpan Struct 251
+The Guid Struct 252
+The List<T> Class 253
+The IEnumerable<T> Interface 256
+The Dictionary<TKey, TValue> Class 257
+xiv TABLE OF CONTENTS
+The Nullable<T> Struct 259
+ValueTuple Structs 259
+The StringBuilder Class 260
+PART 3: ADVANCED TOPICS
+33. Managing Larger Programs 263
+Using Multiple Files 263
+Namespaces and using Directives 264
+Traditional Entry Points 268
+34. Methods Revisited 271
+Optional Arguments 271
+Named Arguments 272
+Variable Number of Parameters 272
+Combinations 273
+Passing by Reference 273
+Deconstructors 276
+Extension Methods 277
+35. Error Handling and Exceptions 280
+Handling Exceptions 281
+Throwing Exceptions 283
+The finally Block 284
+Exception Guidelines 285
+Advanced Exception Handling 288
+36. Delegates 291
+Delegate Basics 291
+The Action, Func, and Predicate Delegates 294
+MulticastDelegate and Delegate Chaining 295
+37. Events 296
+C# Events 296
+Event Leaks 300
+EventHandler and Friends 300
+Custom Event Accessors 301
+38. Lambda Expressions 303
+Lambda Expression Basics 303
+Lambda Statements 305
+Closures 306
+39. Files 308
+The File Class 308
+String Manipulation 310
+File System Manipulation 312
+TABLE OF CONTENTS xv
+Other Ways to Access Files 313
+40.Pattern Matching 316
+The Constant Pattern and the Discard Pattern 317
+The Monster Scoring Problem 317
+The Type and Declaration Patterns 318
+Case Guards 319
+The Property Pattern 319
+Relational Patterns 320
+The and, or, and not Patterns 321
+The Positional Pattern 321
+The var Pattern 322
+Parenthesized Patterns 322
+Patterns with Switch Statements and the is Keyword 322
+Summary 323
+41. Operator Overloading 325
+Operator Overloading 326
+Indexers 327
+Custom Conversions 329
+42. Query Expressions 333
+Query Expression Basics 334
+Method Call Syntax 336
+Advanced Queries 338
+Deferred Execution 340
+LINQ to SQL 341
+43. Threads 343
+The Basics of Threads 343
+Using Threads 344
+Thread Safety 347
+44.Asynchronous Programming 351
+Threads and Callbacks 352
+Using Tasks 353
+Who Runs My Code? 356
+Some Additional Details 358
+45. Dynamic Objects 361
+Dynamic Type Checking 362
+Dynamic Objects 362
+Emulating Dynamic Objects with Dictionaries 363
+Using ExpandoObject 363
+Extending DynamicObject 364
+When to Use Dynamic Object Variations 365
+xvi TABLE OF CONTENTS
+46.Unsafe Code 367
+Unsafe Contexts 368
+Pointer Types 368
+Fixed Statements 369
+Stack Allocations 370
+Fixed-Size Arrays 370
+The sizeof Operator 370
+The nint and nuint Types 371
+Calling Native Code with Platform Invocation Services 371
+47. Other Language Features 373
+Iterators and the yield Keyword 374
+Constants 375
+Attributes 376
+Reflection 378
+The nameof Operator 379
+Nested Types 379
+Even More Accessibility Modifiers 380
+Bit Manipulation 380
+using Statements and the IDisposable Interface 384
+Preprocessor Directives 385
+Command-Line Arguments 387
+Partial Classes 387
+The Notorious goto Keyword 388
+Generic Covariance and Contravariance 389
+Checked and Unchecked Contexts 391
+Volatile Fields 392
+48.Beyond a Single Project 393
+Outgrowing a Single Project 393
+NuGet Packages 396
+49. Compiling in Depth 399
+Hardware 399
+Assembly 401
+Programming Languages 401
+Instruction Set Architectures 402
+Virtual Machines and Runtimes 402
+50..NET 404
+The History of .NET 404
+The Components of .NET 405
+Common Infrastructure 405
+Base Class Library 406
+App Models 407
+TABLE OF CONTENTS xvii
+51. Publishing 409
+Build Configurations 409
+Publish Profiles 410
+PART 4: THE ENDGAME
+52. The Final Battle 417
+Overview 418
+Core Challenges 419
+Expansions 423
+53. Into Lands Uncharted 429
+Keep Learning 429
+Where Do I Go to Get Help? 430
+Parting Words 431
+PART 5: BONUS LEVELS
+A. Visual Studio 435
+Windows 435
+The Options Dialog 441
+B. Compiler Errors 442
+Code Problems: Errors, Warnings, and Messages 442
+How to Resolve Compiler Errors 443
+Common Compiler Errors 445
+C. Debugging Your Code 447
+Print Debugging 448
+Using a Debugger 448
+Breakpoints 449
+Stepping Through Code 450
+Breakpoint Conditions and Actions 451
+Glossary 452
+Index 468
