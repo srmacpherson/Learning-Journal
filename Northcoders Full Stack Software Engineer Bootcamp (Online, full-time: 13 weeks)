@@ -37,4 +37,5 @@ Day Four: Seeding with Node Postgres
 Day Five: Seeding with Node Postgres
 
 ## Week 6
-Day One: HTTP Servers
+Day One: HTTP Servers (Node module)
+Day Two: ExpressJS Servers, Integration Testing (SuperTest), Middleware, npm Scripts
