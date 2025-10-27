@@ -39,5 +39,9 @@ Day Five: Seeding with Node Postgres
 ## Week 6
 Day One: HTTP Servers (Node module), Insomnia
 Day Two: ExpressJS Servers, Integration Testing (SuperTest), Middleware, npm Scripts
-Day Three: Software Architecture (MVC)
-Day Four: Error Handling, Dynamic Queries
+Day Three: Software Architecture (MVC), Backend Project
+Day Four: Error Handling, Dynamic Queries, Backend Project
+Day Five: Error Handling, Backend Project
+
+## Week 7
+Day One: Backend Project
