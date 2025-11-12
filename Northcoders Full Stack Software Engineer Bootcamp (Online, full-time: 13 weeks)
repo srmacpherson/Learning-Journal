@@ -36,7 +36,7 @@ Day Three: Node Postgres, Environment Variables, Test/Development Databases
 Day Four: Seeding with Node Postgres
 Day Five: Seeding with Node Postgres
 
-## Week 6
+## Week 6 (Back-End Portfolio piece)
 Day One: HTTP Servers (Node module), Insomnia
 Day Two: ExpressJS Servers, Integration Testing (SuperTest), Middleware, npm Scripts
 Day Three: Software Architecture (MVC), Backend Project
@@ -44,7 +44,7 @@ Day Four: Error Handling, Dynamic Queries, Backend Project
 Day Five: Error Handling, Backend Project
 
 ## Week 7
-Day One: Backend Project
+Day One: Backend Portfolio
 Day Two: HTML, CSS, Documentation Writing
 Day Three: Document Object Model
 Day Four: HTML Forms and Validation
@@ -57,6 +57,7 @@ Day Three: Loading Patterns, useEffect
 Day Four: Composition, Data Visualisation
 Day Five: React Router
 
-## Week 9
+## Week 9 (Front-End Portfolio piece)
 Day One: Begin Front-End Portfolio piece
 Day Two: Optimistic Rendering
+Day Three: Working on portfolio piece
