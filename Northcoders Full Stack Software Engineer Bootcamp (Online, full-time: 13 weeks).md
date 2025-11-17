@@ -1,69 +1,71 @@
-Course Start Date: 15/09/25
-Course End Date: 12/12/25
+# Northcoders - Full Stack Software Engineer Bootcamp (Online, full-time: 13 weeks)
 
-## Week 1
+*Course Start Date: 15/09/25* <br>
+*Course End Date: 12/12/25*
+
+### Week 1
 Day One: Functions, The Command Line, Execution Context
 Day Two: Functions, Scope, Building a CLI using oclif
 Day Three: Exports and Require, Debugging and Problem Solving
 Day Four: Object Destructuring, Pair Programming
 Day Five: Clean Code, Pair Programming
 
-## Week 2
+### Week 2
 Day One: Problem-solving and Testing Principles (TDD), Pair Programming
 Day Two: Problem-solving and Testing with Jest, Pair Programming
 Day Three: Value vs Reference, Pair Programming
 Day Four: Higher Order Functions, Purer Functions, Pair Programming
 Day Five: HOFs, Closure
 
-## Week 3
+### Week 3
 Day One: Recursion, Pair Programming
 Day Two: Introduction to Object-Oriented Programming, Abstraction, Encapsulation, Factory Functions, Pair Programming
 Day Three: OOP, Inheritance, Prototypes, CV Writing
 Day Four: OOP, Constructors, Classes, Polymorphsim, Pair Programming
 Day Five: OOP, Private Properties, Getters & Setters, Pair Programming
 
-## Week 4
+### Week 4
 Day One: Asynchronous Code, Error-First Callback Functions 
 Day Two: Promises
 Day Three: Promises
 Day Four: Internet and Data Fetching, API requests
 Day Five: Async Await 
 
-## Week 5
+### Week 5
 Day One: Databases, PostgreSQL
 Day Two: SQL Relationships, Aggregate Functions, Joins
 Day Three: Node Postgres, Environment Variables, Test/Development Databases
 Day Four: Seeding with Node Postgres
 Day Five: Seeding with Node Postgres
 
-## Week 6 (Back-End Portfolio piece)
+### Week 6 (Back-End Portfolio piece)
 Day One: HTTP Servers (Node module), Insomnia
 Day Two: ExpressJS Servers, Integration Testing (SuperTest), Middleware, npm Scripts
 Day Three: Software Architecture (MVC), Backend Project
 Day Four: Error Handling, Dynamic Queries, Backend Project
 Day Five: Error Handling, Backend Project
 
-## Week 7
+### Week 7
 Day One: Backend Portfolio
 Day Two: HTML, CSS, Documentation Writing
 Day Three: Document Object Model
 Day Four: HTML Forms and Validation
 Day Five: Data Fetching
 
-## Week 8
+### Week 8
 Day One: React
 Day Two: Controlled Components, Planning React Apps
 Day Three: Loading Patterns, useEffect
 Day Four: Composition, Data Visualisation
 Day Five: React Router
 
-## Week 9 (Front-End Portfolio piece)
+### Week 9 (Front-End Portfolio piece)
 Day One: Begin Front-End Portfolio piece
 Day Two: Optimistic Rendering
 Day Three: Working on portfolio piece
 Day Four: Dependency Injection in React with Context API
 Day Five: Custom React Hooks
 
-# PROJECT PHASE
-## Week 10
+## PROJECT PHASE
+### Week 10
 Day One: Intro to Group Portfolio Project
