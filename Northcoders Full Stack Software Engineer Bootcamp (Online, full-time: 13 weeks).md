@@ -69,3 +69,4 @@ Day Five: Custom React Hooks
 ## PROJECT PHASE
 ### Week 10
 Day One: Agile, Scrum and Intro to Group Portfolio Project
+Day Two: Project Brief and Planning a Pitch
