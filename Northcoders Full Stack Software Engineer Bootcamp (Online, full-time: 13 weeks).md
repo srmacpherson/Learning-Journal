@@ -70,3 +70,4 @@ Day Five: Custom React Hooks <br>
 ### Week 10
 Day One: Agile, Scrum and Intro to Group Portfolio Project <br>
 Day Two: Project Brief and Planning a Pitch <br>
+Day Three: Project Pitch and Spiking new Technologies <br>
