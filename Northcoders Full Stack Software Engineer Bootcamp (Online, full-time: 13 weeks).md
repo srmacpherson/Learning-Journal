@@ -71,3 +71,4 @@ Day Five: Custom React Hooks <br>
 Day One: Agile, Scrum and Intro to Group Portfolio Project <br>
 Day Two: Project Brief and Planning a Pitch <br>
 Day Three: Project Pitch and Spiking new Technologies <br>
+Day Four: Sprint Planning, Spiking and RATS (Learning React Native) <br>
