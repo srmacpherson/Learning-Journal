@@ -67,8 +67,12 @@ Day Four: Dependency Injection in React with Context API <br>
 Day Five: Custom React Hooks <br>
 
 ## PROJECT PHASE
-### Week 10
+### Week 10 (Planning)
 Day One: Agile, Scrum and Intro to Group Portfolio Project <br>
 Day Two: Project Brief and Planning a Pitch <br>
 Day Three: Project Pitch and Spiking new Technologies <br>
 Day Four: Sprint Planning, Spiking and RATS (Learning React Native) <br>
+Day Four: Sprint Planning, Spiking and RATS (Learning MongoDB) <br>
+
+## Week 11
+Day One: Development Phase
