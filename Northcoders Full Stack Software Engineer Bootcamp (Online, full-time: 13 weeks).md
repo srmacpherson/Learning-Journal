@@ -75,4 +75,5 @@ Day Four: Sprint Planning, Spiking and RATS (Learning React Native) <br>
 Day Four: Sprint Planning, Spiking and RATS (Learning MongoDB) <br>
 
 ## Week 11
-Day One: Development Phase
+Day One: Development Phase <br>
+Day Two: Development Phase <br>
