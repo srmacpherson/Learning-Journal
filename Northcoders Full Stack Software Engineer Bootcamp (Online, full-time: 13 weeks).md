@@ -77,3 +77,9 @@ Day Four: Sprint Planning, Spiking and RATS (Learning MongoDB) <br>
 ## Week 11
 Day One: Development Phase <br>
 Day Two: Development Phase <br>
+Day Three: Development Phase <br>
+Day Four: Development Phase <br>
+Day Five: Development Phase <br>
+
+## Week 12
+Day One: Development Phase <br>
