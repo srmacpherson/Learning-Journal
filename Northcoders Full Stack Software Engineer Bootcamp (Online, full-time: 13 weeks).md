@@ -86,3 +86,7 @@ Day One: Development Phase <br>
 Day Two: Development Phase <br>
 Day Three: Development Phase <br>
 Day Four: Development Phase <br>
+Day Five: Video recording App Showcase <br>
+
+## Week 13 (Careers Week)
+Day One: Tailoring Applications and Cover Letters, Freelancing <br>
