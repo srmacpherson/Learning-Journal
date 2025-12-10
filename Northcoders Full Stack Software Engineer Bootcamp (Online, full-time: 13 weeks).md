@@ -91,3 +91,5 @@ Day Five: Video recording App Showcase <br>
 ## Week 13 (Careers Week)
 Day One: Tailoring Applications and Cover Letters, Freelancing <br>
 Day Two: Preparing for Interviews, Application tracking with AI <br>
+Day Three: Job Searching, Networking, Partnerships, LinkedIn, Assessment Centers <br>
+
