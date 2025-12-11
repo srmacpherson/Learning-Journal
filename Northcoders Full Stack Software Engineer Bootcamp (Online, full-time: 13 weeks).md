@@ -92,4 +92,4 @@ Day Five: Video recording App Showcase <br>
 Day One: Tailoring Applications and Cover Letters, Freelancing <br>
 Day Two: Preparing for Interviews, Application tracking with AI <br>
 Day Three: Job Searching, Networking, Partnerships, LinkedIn, Assessment Centers <br>
-
+Day Four: Industry Insights, Elevator Pitching <br>
