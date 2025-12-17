@@ -13,7 +13,15 @@
 *The course heavily utilises Pair Programming which can be a hit or a miss depending on your partner for each day.* <br>
 *The tutors are passionate and engaging - They reciprocate your effort and they relish at the opportunity to challenge your understanding.* <br>
 
+*CV Enhancement and multiple rounds of CV reviews are completed during the course - This is part of the career support package that continues and lasts 6months prior to the course's conclusion. Having signed a contract (for a job I interviewed and took assessments for prior to starting the course) I was kindly removed from this process of support as their role is to get you into employment - Therefore, I cannot speak to the efficacy of their involvement regarding employment success however their CV support I received was enlightening.*
+
 *The pace of the course is fast for beginners and I would argue that if your intention is an ambition to change career, a significant effort of regular coding for 6-12 months prior would be extremely beneficial. Else, you risk falling behind before concepts settle and miss out on the opportunity of building ontop of consolidation."* <br>
+
+*Would I recommend the course?* <br>
+*"Yes. Only if you're serious and committed and already coding most days because you are passionate about it."* <br>
+
+*Noteable:* <br>
+*90% of placements are fully-funded (2025 reference: [NORTHCODERS GROUP PLC - Full Year Results](https://www.youtube.com/watch?v=08C38jYQqOQ&t=2064s)).* 
 
 ### Week 1
 Day One: Functions, The Command Line, Execution Context <br>
