@@ -3,6 +3,18 @@
 *Course Start Date: 15/09/25* <br>
 *Course End Date: 12/12/25*
 
+*Review:* <br> 
+
+*(TL:DR You get out what you put in.)* <br>
+
+*"The course was simple yet thorough - By which, I mean to say that, after developing an understanding of the very basic fundementals of JavaScript programming, you gain enough information to create a full-stack application using specific technologies.* <br> 
+*You develop 2 full-stack applications. One as an individual and one in a group environment during project phase.* <br>
+*The individual full-stack app was strictly created using a PERN stack and the group project allowed flexibility in technologies (My group turned to mobile development using React-native and implemented a NoSQL database).* <br> 
+*The course heavily utilises Pair Programming which can be a hit or a miss depending on your partner for each day.* <br>
+*The tutors are passionate and engaging - They reciprocate your effort and they relish at the opportunity to challenge your understanding.* <br>
+
+*The pace of the course is fast for beginners and I would argue that if your intention is an ambition to change career, a significant effort of regular coding for 6-12 months prior would be extremely beneficial. Else, you risk falling behind before concepts settle and miss out on the opportunity of building ontop of consolidation."* <br>
+
 ### Week 1
 Day One: Functions, The Command Line, Execution Context <br>
 Day Two: Functions, Scope, Building a CLI using oclif <br>
